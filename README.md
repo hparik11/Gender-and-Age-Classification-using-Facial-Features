@@ -81,4 +81,6 @@ for i.e
 ## Conclusions / Future Work
 
 1. Keep collecting more data to get better accuracy. 
-2. Try to diminish testing error and remove noise from data. 
+2. Try to lessen testing error and remove noise from data. 
+3. Regularize the Deep Models using Dropout.
+4. Use more age groups, and predict the age.
